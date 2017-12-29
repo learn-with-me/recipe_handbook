@@ -15,4 +15,6 @@
 * [Soups](soups.md)
 * [Chutney](chutney.md)
 * [Veg Sabzi](veg-sabzi.md)
+* [Turkey](turkey.md)
+* [Sandwich & Burgers](sandwich-and-burgers.md)
 
