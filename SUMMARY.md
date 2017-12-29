@@ -1,14 +1,18 @@
 # Summary
 
 * [Introduction](README.md)
+* [Kitchen Basics](kitchen-basics.md)
 * [Breakfast](breakfast.md)
+* [Egg](egg.md)
+  * [Egg Masala](egg/egg-masala.md)
+  * [Egg Bhurji](egg/egg-bhurji.md)
 * [Smoothies](smoothies.md)
   * [Workout Smoothie](smoothies/workout-smoothie.md)
   * [Hydrating Smoothies](smoothies/hydrating-smoothies.md)
   * [Creamy Smoothies](smoothies/creamy-smoothies.md)
   * [Detox Smoothies](smoothies/detox-smoothies.md)
   * [Green Smoothies](smoothies/green-smoothies.md)
-* [Egg](egg.md)
-  * [Egg Masala](egg/egg-masala.md)
-  * [Egg Bhurji](egg/egg-bhurji.md)
+* [Soups](soups.md)
+* [Chutney](chutney.md)
+* [Veg Sabzi](veg-sabzi.md)
 
