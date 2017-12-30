@@ -5,22 +5,16 @@ Purpose of writing this book is to document few cooking basics, tricks and recip
 ##### Follow Chef
 
 ```
+Jamie Oliver
 Tony Mantuano
 Emma Bengtsson
 Rick Bayless
 ```
 
-##### Hacker Menu
-
-```
-http://hackthemenu.com/
-http://hackthemenu.com/starbucks/secret-menu/
-http://hackthemenu.com/bar-louie/happy-hour/
-```
-
 ##### Food Blogs
 
 ```
+https://www.jamieoliver.com/
 https://www.thekitchn.com/
 https://www.epicurious.com/
 https://www.chowhound.com/
@@ -32,6 +26,16 @@ Sides and Desserts
 https://cookieandkate.com/recipes/
 https://bakingamoment.com/recipe-index/
 ```
+
+##### Hacker Menu
+
+```
+http://hackthemenu.com/
+http://hackthemenu.com/starbucks/secret-menu/
+http://hackthemenu.com/bar-louie/happy-hour/
+```
+
+##### 
 
 
 
