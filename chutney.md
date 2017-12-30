@@ -10,7 +10,12 @@ Peanuts can also be added to bind the chutney together.
 Mix Curd when done. Control on the amount of Ginger.
 ```
 
+##### Hummus
 
+```
+https://www.youtube.com/watch?v=LoeSv5enisE
+
+```
 
 
 
