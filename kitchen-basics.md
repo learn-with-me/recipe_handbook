@@ -14,11 +14,11 @@ https://www.youtube.com/watch?v=-av6cz9upO0
 https://www.youtube.com/watch?v=mVXvoQOMS2E
 ```
 
-##### 
+##### Velveting Chicken
 
-
-
-
+```
+https://www.thekitchn.com/how-to-velvet-chicken-for-stir-fry-248237
+```
 
 
 

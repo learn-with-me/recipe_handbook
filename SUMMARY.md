@@ -12,6 +12,7 @@
   * [Creamy Smoothies](smoothies/creamy-smoothies.md)
   * [Detox Smoothies](smoothies/detox-smoothies.md)
   * [Green Smoothies](smoothies/green-smoothies.md)
+  * [Summer Drinks](smoothies/summer-drinks.md)
 * [Soups](soups.md)
 * [Salads](salads.md)
 * [Chutney](chutney.md)
