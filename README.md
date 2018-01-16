@@ -35,7 +35,16 @@ http://hackthemenu.com/starbucks/secret-menu/
 http://hackthemenu.com/bar-louie/happy-hour/
 ```
 
-##### 
+##### Diets to explore
+
+```
+Mediterranean
+    https://oldwayspt.org/traditional-diets/mediterranean-diet
+Keto
+    https://health.usnews.com/best-diet/keto-diet
+
+https://www.npr.org/sections/thesalt/2018/01/03/575181390/from-vegan-to-keto-and-mediterranean-experts-rank-2018s-best-diets
+```
 
 
 
