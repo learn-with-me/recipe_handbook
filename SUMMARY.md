@@ -19,4 +19,5 @@
 * [Veg Sabzi](veg-sabzi.md)
 * [Turkey](turkey.md)
 * Salads
+* [Dine out](dine-out.md)
 
