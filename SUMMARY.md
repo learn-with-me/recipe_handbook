@@ -20,4 +20,5 @@
 * [Turkey](turkey.md)
 * Salads
 * [Dine out](dine-out.md)
+* [Juicing](juicing.md)
 
