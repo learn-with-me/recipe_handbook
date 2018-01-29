@@ -15,6 +15,7 @@
   * [Summer Drinks](smoothies/summer-drinks.md)
 * [Soups](soups.md)
 * [Salads](salads.md)
+  * [Salad Dressing](salads/salad-dressing.md)
 * [Chutney](chutney.md)
 * [Veg Sabzi](veg-sabzi.md)
 * [Turkey](turkey.md)
