@@ -23,4 +23,5 @@
 * [Juicing](juicing.md)
 * [Keto](keto.md)
 * [Crockpot](crockpot.md)
+  * [Chicken](crockpot/chicken.md)
 
