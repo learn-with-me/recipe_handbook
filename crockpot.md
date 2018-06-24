@@ -11,15 +11,12 @@ https://www.thecountrycook.net/crock-pot-chicken-and-rice-burrito-bowl/
 
 Frozen
 https://www.thecountrycook.net/crock-pot-garlic-parmesan-chicken/
-
-
 ```
 
 ##### Chicken Thighs
 
 ```
 https://dinnerthendessert.com/slow-cooker-brown-sugar-garlic-chicken/
-
 ```
 
 Beef
