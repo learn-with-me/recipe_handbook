@@ -24,4 +24,5 @@
 * [Keto](keto.md)
 * [Crockpot](crockpot.md)
   * [Chicken](crockpot/chicken.md)
+    * [Basic Creamy Chicken](crockpot/chicken/basic-creamy-chicken.md)
 
