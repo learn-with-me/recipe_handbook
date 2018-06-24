@@ -22,4 +22,5 @@
 * [Dine out](dine-out.md)
 * [Juicing](juicing.md)
 * [Keto](keto.md)
+* [Crockpot](crockpot.md)
 
