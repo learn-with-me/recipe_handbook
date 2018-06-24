@@ -19,7 +19,6 @@
 * [Chutney](chutney.md)
 * [Veg Sabzi](veg-sabzi.md)
 * [Turkey](turkey.md)
-* [Salads](salads.md)
 * [Dine out](dine-out.md)
 * [Juicing](juicing.md)
 * [Keto](keto.md)
