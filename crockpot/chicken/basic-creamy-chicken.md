@@ -38,5 +38,21 @@ when reheating or separate. This crockpot chicken and rice recipe is a different
 soup really helps to keep things together.
 ```
 
+##### Italian Dressing Seasoning Dry Mix
+
+```
+1 tablespoon garlic salt
+1 tablespoon onion powder
+1 tablespoon white sugar
+2 tablespoons dried oregano
+1 teaspoon ground black pepper
+
+1/4 teaspoon dried thyme
+1 teaspoon dried basil
+1 tablespoon dried parsley
+1/4 teaspoon celery salt
+2 tablespoons salt
+```
+
 
 
