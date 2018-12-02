@@ -25,4 +25,6 @@
 * [Crockpot](crockpot.md)
   * [Chicken](crockpot/chicken.md)
     * [Basic Creamy Chicken](crockpot/chicken/basic-creamy-chicken.md)
+* [Padosi](padosi.md)
+  * [Chicken Stew - Indian](padosi/chicken-stew-indian.md)
 
