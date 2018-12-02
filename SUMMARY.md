@@ -27,4 +27,5 @@
     * [Basic Creamy Chicken](crockpot/chicken/basic-creamy-chicken.md)
 * [Padosi](padosi.md)
   * [Chicken Stew - Indian](padosi/chicken-stew-indian.md)
+  * [Keema](padosi/keema.md)
 

@@ -28,6 +28,7 @@
   * Place Masala
   * Place Raw garam masala
   * Place whole dry red chili
+* Broil final product on high for 30 mins to dry out gravy
 
 
 
